@@ -1,0 +1,40 @@
+html {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.link_to_download {
+    color: aquamarine;
+    text-decoration: underline;
+
+}
+/* header */
+
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 3.125rem;
+
+}
+
+/* main */
+
+main #travel_guide h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+main #travel_guide .other_p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: grey;
+}
+
+/* footer */
+
+footer {
+    text-align: right;
+    color: grey;
+}
